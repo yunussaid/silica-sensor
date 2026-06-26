@@ -5,7 +5,7 @@ This project implements a *Machine Learning Soft Sensor* to predict *% Silica Co
 
 The final production model is built using *CatBoost*, selected for its superior generalization capability on future data.
 
-> [*Note: Refer to our other repository to view our implemented dashboard*](https://github.com/yunussaid/ENG-M-680-Project)
+> [*CLICK HERE TO SEE DEPLOYED DASHBOARD!*](https://silica-sensor.streamlit.app)
 
 ## Project Structure
 | File / Directory | Description |
